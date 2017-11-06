@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Agenda Pediátrica</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+	<string name="not_close_session">No se pudo cerrar sesión</string>
+	<string name="not_revoke">No se pudo revocar el acceso</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498243086234",
+    "firebase_url": "https://agendamedica-10f60.firebaseio.com",
+    "project_id": "agendamedica-10f60",
+    "storage_bucket": "agendamedica-10f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498243086234:android:46f3732f02b75146",
+        "android_client_info": {
+          "package_name": "com.example.user.agendamedica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498243086234-g9h7rtgl0umg2pgav1a9cfkntfk5ldrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.agendamedica",
+            "certificate_hash": "88240cc2566da6bb0def22590e0b937e6e0ffbed"
+          }
+        },
+        {
+          "client_id": "498243086234-v3hi31l2orogl1kbsmiurae9mmae0rjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-Gbh0TqQhU98A2Oc6uPisDWr4LYaVq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498243086234-v3hi31l2orogl1kbsmiurae9mmae0rjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
